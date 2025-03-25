@@ -1,9 +1,8 @@
 - 👋 Olá! Eu sou o Thales Almeida.
 - 🌱 Atualmente eu estudo HTML, CSS, JAVASCRIPT e REACT;
-- 👀 Tenho o interesse de em um futuro próximo poder fazer minha transição de carreira e trabalhar como PROGRAMADOR FRONT-END.
+- 👀 Tenho o interesse de em um futuro próximo poder fazer minha transição de carreira e trabalhar como PROGRAMADOR FRONT-END/FULLSTACK.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SrZokE&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SrZokE&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesAlmeidaa&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
