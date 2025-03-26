@@ -3,6 +3,7 @@
 - 👀 Tenho o interesse de em um futuro próximo poder fazer minha transição de carreira e trabalhar como PROGRAMADOR FRONT-END/FULLSTACK.
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesAlmeidaa&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesAlmeidaa&layout=compact&theme=dracula)
 
 
 <div style="display: inline_block"><br>
