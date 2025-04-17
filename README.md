@@ -2,7 +2,7 @@
 
 - 👋 Hi! I'm Thales Almeida.
 - 💻 I am currently studying HTML, CSS and JAVASCRIPT.
-- 📌 I am interested in making my career transition in the near future and working as a FRONT-END PROGRAMMER and developing my skills as a FULL STACK developer.
+- 📌 I am interested in making my career transition in the near future and working as a FRONT-END WEB DEVELOPER and developing my skills as a FULL STACK developer.
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesAlmeidaa&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesAlmeidaa&layout=compact&theme=dracula)
