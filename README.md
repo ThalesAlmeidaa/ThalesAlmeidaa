@@ -3,10 +3,6 @@
 - 👋 Hi! I'm Thales Almeida.
 - 👨‍💻 Junior Web Developer (Front-End)
 - 📌 Passionate about building clean, responsive, and user-friendly interfaces using HTML, CSS, and JavaScript. Always learning and improving.
-  
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThalesAlmeidaa&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesAlmeidaa&layout=compact&theme=dracula)
 
 # 💻 Skills
 <div style="display: inline_block"><br>
